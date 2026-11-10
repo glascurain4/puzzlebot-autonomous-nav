@@ -218,7 +218,12 @@ puzzlebot-autonomous-nav/
 
 Robotics and Digital Systems Engineering, Tecnológico de Monterrey, Campus Querétaro, in collaboration with Manchester Robotics.
 
-Thanks to our professor Jesús Arturo Escobedo for his guidance, and to Manchester Robotics for the challenge.
+Thanks to:
+
+- Dr. Jesús Arturo Escobedo, our professor, for his guidance.
+- Dr. Rick Leigh Swenson for his guidance regarding computer vision.
+- Dr. José Antonio Cantoral Ceballos for his guidance regarding neural networks.
+- Manchester Robotics for the challenge.
 
 ## License
 
