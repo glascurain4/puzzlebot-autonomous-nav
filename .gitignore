@@ -1,0 +1,19 @@
+# colcon workspace output
+build/
+install/
+log/
+
+# python
+__pycache__/
+*.pyc
+*.egg-info/
+
+# model weights (large; share separately)
+*.pt
+*.onnx
+*.engine
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
